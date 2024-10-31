@@ -25,11 +25,3 @@ We welcome contributions to RideBuddy! Please follow these steps to contribute:
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Submit a pull request
-
-## License
-
-[Include license information here]
-
-## Contact
-
-[Include contact information or links to project management tools]
