@@ -1,0 +1,3 @@
+{
+    "mongoURI": "MONGODB_URI_FROM_ENV"
+  }
